@@ -38,6 +38,8 @@
 		B42155CD24F92F5F00B04454 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
 		B42155CE24F92F5F00B04454 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
 		B42155CF24F92F5F00B04454 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		B42155D824F932C300B04454 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B42155D924F934E900B04454 /* HomeScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,8 @@
 		B42155A624F92A8D00B04454 = {
 			isa = PBXGroup;
 			children = (
+				B42155D824F932C300B04454 /* README.md */,
+				B42155D924F934E900B04454 /* HomeScreen.png */,
 				B42155B124F92A8D00B04454 /* Xylophone */,
 				B42155B024F92A8D00B04454 /* Products */,
 			);
